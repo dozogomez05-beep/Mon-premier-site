@@ -1,0 +1,71 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #2c2e29;
+    align-items: center;
+    color: white;
+
+}
+.p{
+    color: brown;
+}
+.i{
+    color: white;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding: 0 30px;
+}nav ul a{
+    color: brown;
+}
+
+li:hover{
+    color: brown;
+    transition: 0.5s;
+}
+.home{
+    background-image:url(imag/WhatsApp\ Image\ 2026-05-07\ at\ 14.19.01.jpeg);
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.em{
+   color: brown; 
+   font-size: 56px;
+}
+.df{
+    color: brown;
+}
+button{
+    color: white;
+    background-color: brown;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.em{
+    color: white;
+}
+.vx{
+    color: brown;
+}
+.réel
+{
+    color: black;
+    background-color: white;
+    padding: 20px 20px;
+    gap: 0 56px;
+}
+
+.bv {
+    color: black;
+}
+.vb{
+    color: brown;
+}
