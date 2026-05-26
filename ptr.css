@@ -26,7 +26,7 @@ li:hover{
     transition: 0.5s;
 }
 .home{
-    background-image:url(p.jpeg);
+    background-image:url("p.jpeg");
     height: 80vh;
     background-position: center;
     background-size: cover;
